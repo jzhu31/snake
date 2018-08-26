@@ -1,4 +1,4 @@
-# snake
+# Wharton Snake
 
 This project is a variation of the classic game of snakes and slither.io. 
 The objective is to eat as many money/internships as possible. Rather than
